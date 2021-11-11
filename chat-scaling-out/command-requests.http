@@ -6,7 +6,7 @@ Accept: application/json
 Content-Type: application/json
 
 {
-  "name": "Axon Chat Room - Random UUID"
+  "name": "Axon Chat Room - Random UUID 2"
 }
 
 ### Create Chat Room with static UUID
