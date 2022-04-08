@@ -2,8 +2,8 @@ POST http://localhost:8080/rooms
 Content-Type: application/json
 
 {
-  "roomId": "56f85087-64fa-456f-bc2c-d009e6462f35",
-  "name": "room1"
+  "roomId": "56f85087-64fa-456f-bc2c-d009e6462d35",
+  "name": "room2"
 }
 
 ###
